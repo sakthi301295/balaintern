@@ -1,0 +1,44 @@
+.greeting h2 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .greeting h1 {
+    color: #007e6a;
+    margin: 5px 0 15px;
+    font-size: 22px;
+  }
+  
+  .cta {
+    background: #f0f4f3;
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cta strong {
+    font-size: 16px;
+  }
+  
+  .cta p {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .arrow-button {
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 16px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .arrow-button:hover{
+    border:2px solid black;
+    transition: 3ms;
+  }
+  
